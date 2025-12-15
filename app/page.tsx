@@ -35,6 +35,13 @@ export default function Home() {
         {/* Links */}
         <section className="flex flex-wrap gap-6 text-sm">
           <a
+            href="https://github.com/hongbo-wei"
+            className="hover:text-green-300 transition"
+            target="_blank"
+          >
+            [ GitHub ]
+          </a>
+          <a
             href="https://linkedin.com/in/hongbo-wei"
             className="hover:text-green-300 transition"
             target="_blank"
@@ -42,11 +49,11 @@ export default function Home() {
             [ LinkedIn ]
           </a>
           <a
-            href="https://github.com/hongbo-wei"
+            href="https://linktr.ee/hongbo_wei"
             className="hover:text-green-300 transition"
             target="_blank"
           >
-            [ GitHub ]
+            [ Linktree ]
           </a>
           <a
             href="mailto:hongbowei.bruce@gmail.com"
