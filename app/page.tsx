@@ -16,6 +16,9 @@ export default function Home() {
         {/* Body */}
         <section className="space-y-4 text-green-400">
           <p>
+            <span className="text-green-600">$</span> Entrepreneur
+          </p>
+          <p>
             <span className="text-green-600">$</span> building production-grade AI systems
           </p>
           <p>
@@ -23,9 +26,6 @@ export default function Home() {
           </p>
           <p>
             <span className="text-green-600">$</span> ex-OpenVINO contributor · arXiv author
-          </p>
-          <p>
-            <span className="text-green-600">$</span> former professional boxer
           </p>
         </section>
 
