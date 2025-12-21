@@ -9,7 +9,7 @@ export default function Home() {
             Hongbo Wei
           </h1>
           <p className="mt-4 text-green-500">
-            Principal ML Engineer · MLOps · LLM · Computer Vision
+            CTO · MLOps · LLM · Computer Vision
           </p>
         </header>
 
