@@ -13,9 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hongbo Wei | Principal ML Engineer",
+  title: "Hongbo Wei | Quantitative Trading · ML · Systems",
   description:
-    "Hongbo Wei — Principal ML Engineer focused on production AI systems, MLOps, LLMs, and computer vision.",
+    "Hongbo Wei — Expertise in quantitative trading, systematic strategies, and production ML systems.",
+  openGraph: {
+    title: "Hongbo Wei | Quantitative Trading · ML · Systems",
+    description:
+      "Expertise in quantitative trading, systematic strategies, and production ML systems.",
+  },
 };
 
 export default function RootLayout({

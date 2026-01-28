@@ -8,9 +8,10 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-bold text-green-400 mt-2">
             Hongbo Wei
           </h1>
-          <p className="mt-4 text-green-500">
-            CTO · AI · Blockchain · Web3
-          </p>
+          <h2 className="mt-1 text-sm text-green-300 font-semibold">
+            Quantitative Trading · Systematic Strategies
+          </h2>
+          <p className="mt-4 text-green-500">CTO · AI · Blockchain · Web3</p>
         </header>
 
         {/* Body */}
@@ -19,13 +20,16 @@ export default function Home() {
             <span className="text-green-600">$</span> Entrepreneur
           </p>
           <p>
-            <span className="text-green-600">$</span> building production-grade AI systems
+            <span className="text-green-600">$</span> building production-grade
+            AI systems
           </p>
           <p>
-            <span className="text-green-600">$</span> shipping LLMs, CV pipelines, NLP, and data infra
+            <span className="text-green-600">$</span> shipping LLMs, CV
+            pipelines, NLP, and data infra
           </p>
           <p>
-            <span className="text-green-600">$</span> ex-OpenVINO contributor · arXiv author
+            <span className="text-green-600">$</span> ex-OpenVINO contributor ·
+            arXiv author
           </p>
         </section>
 
@@ -38,6 +42,7 @@ export default function Home() {
             href="https://github.com/hongbo-wei"
             className="hover:text-green-300 transition"
             target="_blank"
+            rel="noopener noreferrer"
           >
             [ GitHub ]
           </a>
@@ -45,6 +50,7 @@ export default function Home() {
             href="https://linkedin.com/in/hongbo-wei"
             className="hover:text-green-300 transition"
             target="_blank"
+            rel="noopener noreferrer"
           >
             [ LinkedIn ]
           </a>
@@ -52,6 +58,7 @@ export default function Home() {
             href="https://linktr.ee/hongbo_wei"
             className="hover:text-green-300 transition"
             target="_blank"
+            rel="noopener noreferrer"
           >
             [ Linktree ]
           </a>
